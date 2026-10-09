@@ -1,0 +1,16 @@
+# Nunca subir claves, paquetes de prueba, datos ni bitácoras
+buzon_datos/
+demo_datos/
+recibidos/
+*.pem
+*.key
+*.buzon
+bitacora.log
+bitacora.cabeza
+confianza/
+privadas/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
